@@ -244,7 +244,7 @@ class VertebraSeg(SegmentEditorThresholdEffect):
   effect.setParameter("Minimum Threshold", 265)
   effect.setParameter("Maximum Threshold", 1009)
 
-  effect.self().apply(fidIDK)
+  effect.self().apply(fidIJK)
 
   ##this segment editor widget enables the user to access the list of segment extra effects editor questions
   
